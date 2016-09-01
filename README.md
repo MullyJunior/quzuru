@@ -1,0 +1,2 @@
+# quzuru
+tourism portal
